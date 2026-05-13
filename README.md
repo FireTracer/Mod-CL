@@ -102,8 +102,6 @@ The main observations are:
 - Mod-CL achieves the best linear probing accuracy across all label budgets on both RadioML 2016.10A and RadioML 2016.10B.
 - The advantage is most significant when labeled data are scarce.
 - Mod-CL performs consistently well across different SNR levels.
-- The gains are especially clear in low-to-medium SNR regions, indicating that the learned representations are more robust and modulation-discriminative.
-
 
 
 ## Citation
